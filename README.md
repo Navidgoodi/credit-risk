@@ -23,12 +23,9 @@ Evaluate and compare two ensemble models for creditworthiness prediction.
 - `shap_plots/` – Explainability visualizations
 - `results/` – ROC curves and F1 scores
 
-#Setup
-```bash
-pip install -r requirements.txt
-```
 
-#Author
+
+# Author
 **Navid Goodarzi**  
 GitHub: [Navidgoodi]  
 Email: [navidgoodarzi19@gmail.com]
