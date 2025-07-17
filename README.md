@@ -17,7 +17,8 @@ Evaluate and compare two ensemble models for creditworthiness prediction.
 - **Random Forest Mean F1**: 0.845
 - **Wilcoxon Test p-value**: 0.064 → *No significant difference*
 
-
+# Main Notebook
+[Click to view the notebook](https://github.com/Navidgoodi/credit-risk/blob/main/credt_risk.ipynb)
 
 
 # Author
